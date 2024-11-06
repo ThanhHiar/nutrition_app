@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217912588197",
+    "project_id": "nutrition-app-datn",
+    "storage_bucket": "nutrition-app-datn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217912588197:android:314f3c8ab1ba0f81ffda4c",
+        "android_client_info": {
+          "package_name": "com.nutrition_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOQTNrakYxXGDgTNz9S8_eThsj4-3wDII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
